@@ -1,0 +1,16 @@
+.team-heading {
+  background-color: black;
+  color: red;
+  font-family: "Stencil", Times, serif;
+  text-decoration: underline;
+}
+
+.employee-card {
+  background-color: lightgrey;
+  font-family: "Stencil", Times, serif;
+  float: left;
+}
+
+body {
+  background-color: whitesmoke;
+}
