@@ -3,14 +3,15 @@
 ## Table of contents
 
 - [Description](#description)
-- [Installation](#installation-instructions)
-- [Usage](#usage-information)
-- [Contributing](#contributing-guidelines)
-- [Tests](#test-instructions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
 - [License](#license)
 - [Deployed application](#deployed-application)
 - [GitHub repository](#github-repository)
 - [Questions](#questions)
+- [Demonstration Links](#demonstration-links)
 
 ## Description
 
@@ -41,7 +42,7 @@ There are no contributing guidelines at this moment in time. Please check back i
 
 ## Tests
 
-This application utilises jest and test can be carried out using the following command in terminal `npm run test`.
+This application utilises jest and to test the app the following command `npm run test` should be used.
 
 ## License
 
@@ -49,23 +50,25 @@ This application utilises jest and test can be carried out using the following c
 License Name: MIT <br />
 License Link: [MIT](https://opensource.org/licenses/MIT)
 
-## The URL of the deployed application
+## Deployed Application
 
 There is no URL of the deployed application on this occasion
 
-## The URL of the GitHub repository
+## GitHub Repository
 
-https://github.com/riz1ash786/README-Generator
+https://github.com/riz1ash786/team-profile-generator
 
 ## Questions
 
-If you have any additional quesitons then please get in touch via github or email. Thank you.
+If you have any additional questions then please get in touch via github or email. Thank you.
 
 - Github - https://github.com/riz1ash786
 - Email address - riz1ash786@gmail.com
 
-## Video demonstration Link
+## Demonstration Links
 
-https://drive.google.com/file/d/10XZhG5zRd4O9rARnujl2220a-U9zenGb/view?usp=sharing
+![team generator homepage](./assets/images/team-generator-homepage.png)
 
-https://user-images.githubusercontent.com/93995881/155859005-4620a468-e4c3-402e-be8a-af484de2a1b0.mov
+<!-- https://drive.google.com/file/d/10XZhG5zRd4O9rARnujl2220a-U9zenGb/view?usp=sharing -->
+
+<!-- https://user-images.githubusercontent.com/93995881/155859005-4620a468-e4c3-402e-be8a-af484de2a1b0.mov -->
