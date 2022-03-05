@@ -11,6 +11,7 @@
 - [Deployed application](#deployed-application)
 - [GitHub repository](#github-repository)
 - [Questions](#questions)
+- [Screenshot](#screenshot)
 - [Demonstration Links](#demonstration-links)
 
 ## Description
@@ -65,10 +66,10 @@ If you have any additional questions then please get in touch via github or emai
 - Github - https://github.com/riz1ash786
 - Email address - riz1ash786@gmail.com
 
-## Demonstration Links
+## Screenshot
 
 ![team generator homepage](./assets/images/team-generator-homepage.png)
 
-<!-- https://drive.google.com/file/d/10XZhG5zRd4O9rARnujl2220a-U9zenGb/view?usp=sharing -->
+## Demonstration Links
 
-<!-- https://user-images.githubusercontent.com/93995881/155859005-4620a468-e4c3-402e-be8a-af484de2a1b0.mov -->
+https://drive.google.com/file/d/1CACjaI0ldtUd12tCyW55wnLUxb6ftt4i/view?usp=sharing
